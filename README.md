@@ -1,8 +1,8 @@
 
-<h1 align="center">Deep-Stream-Cam</h1>
+<h1 align="center">VisionShift</h1>
 
 <p align="center">
-  **Deep-Stream-Cam** enables seamless real-time face swapping and video deepfakes with just a single image and a single click. Leverage AI to effortlessly transform video content in an instant and explore advanced visual effects.
+  **VisionShift** enables seamless real-time face swapping and video deepfakes with just a single image and a single click. Leverage AI to effortlessly transform video content in an instant and explore advanced visual effects.
 </p>
 
 <p align="center">
@@ -160,7 +160,7 @@ For full list, refer to the [CLI documentation](#Command-Line-Arguments).
 
 ## Press Coverage
 
-**Deep-Stream-Cam** has garnered attention for its groundbreaking AI-powered face-swapping capabilities:
+**VisionShift** has garnered attention for its groundbreaking AI-powered face-swapping capabilities:
 
 - [Ars Technica: "Deep-Live-Cam goes viral"](https://arstechnica.com/information-technology/2024/08/new-ai-tool-enables-real-time-face-swapping-on-webcams-raising-fraud-concerns/)
 - [PetaPixel: "Deepfake AI Tool Lets You Become Anyone in a Video Call"](https://petapixel.com/2024/08/14/deep-live-cam-deepfake-ai-tool-lets-you-become-anyone-in-a-video-call-with-single-photo-mark-zuckerberg-jd-vance-elon-musk/)
